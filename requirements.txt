@@ -1,0 +1,10 @@
+
+spacy
+nltk
+transformers
+pandas
+numpy
+flask
+python-dotenv
+requests
+openai
